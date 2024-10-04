@@ -1,0 +1,13 @@
+{
+  "name": "styletts2_demo",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.6.3",
+    "replicate": "^0.34.1"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
