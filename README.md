@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 To install dependencies:
 ```sh
 bun install
@@ -9,3 +10,6 @@ bun run dev
 ```
 
 open http://localhost:3000
+=======
+# tts-voice-prototype
+>>>>>>> origin/main
